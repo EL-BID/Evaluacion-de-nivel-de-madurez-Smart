@@ -3,8 +3,7 @@
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
-<h1 align="center"> Evaluación, identificación e implementación de proyectos Ciudades-Inteligentes (“Smart
-Cities”) en América Latina y el Caribe</h1>
+<h1 align="center"> Metodología de evaluación de ciudades inteligentes</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
 
 ## Tabla de contenidos:
