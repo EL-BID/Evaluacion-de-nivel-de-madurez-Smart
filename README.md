@@ -1,10 +1,10 @@
 
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Metodologia-de-evaluacion-de-ciudades-inteligentes/readme?useReferer)](https://github.com/EL-BID/Metodologia-de-evaluacion-de-ciudades-inteligentes)
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Metodologia-de-evaluacion-de-ciudades-inteligentes/readme?useReferer)](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart)
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
 <h1 align="center"> Metodología de evaluación de ciudades inteligentes</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Metodologia-de-evaluacion-de-ciudades-inteligentes/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
+<p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
 
 ## Tabla de contenidos:
 ---
@@ -25,7 +25,7 @@ herramienta, desarrollada en formato Excel, la cual dispone menú principal con 
 
 ## Guía de usuario
 ---
-Encontrarás un guía detallada en el siguiente pdf: [Manual 2021.10.27.pdf](https://github.com/EL-BID/Metodologia-de-evaluacion-de-ciudades-inteligentes/blob/main/Manual%202021.10.27.pdf)
+Encontrarás un guía detallada en el siguiente pdf: [Manual 2021.10.27.pdf](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%202021.10.27.pdf)
  	
 ## Autor/es
 ---
@@ -36,7 +36,7 @@ Correo: amolinaledesma@deloittemx.com
 ## Licencia 
 ---
 
-Esta herramienta esta licenciada bajo la [licencia oficial del banco para publicar software](https://github.com/EL-BID/Metodologia-de-evaluacion-de-ciudades-inteligentes/blob/main/LICENSE.md)
+Esta herramienta esta licenciada bajo la [licencia oficial del banco para publicar software](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/LICENSE.md)
 
 La Documentación de Soporte y Uso del software se licenciará bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND).
 
