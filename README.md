@@ -1,11 +1,11 @@
 
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/evaluacion-macros-smart-cities/readme?useReferer)](https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes-)
+[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/evaluacion-macros-smart-cities/readme?useReferer)](https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes)
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
 <h1 align="center"> Evaluación, identificación e implementación de proyectos Ciudades-Inteligentes (“Smart
 Cities”) en América Latina y el Caribe</h1>
-<p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes-/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
+<p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
 
 ## Tabla de contenidos:
 ---
@@ -26,7 +26,7 @@ herramienta, desarrollada en formato Excel, la cual dispone menú principal con 
 
 ## Guía de usuario
 ---
-Encontrarás un guía detallada en el siguiente pdf:(Manual 2021.10.27.pdf)[https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes-/blob/main/Manual%202021.10.27.pdf]
+Encontrarás un guía detallada en el siguiente pdf: [Manual 2021.10.27.pdf](https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes-/blob/main/Manual%202021.10.27.pdf)
  	
 ## Autor/es
 ---
@@ -35,9 +35,9 @@ Nombra a el/los autor/es original/es. Consulta con ellos antes de publicar un em
 ## Licencia 
 ---
 
-Esta herramienta esta licenciada bajo la [licencia oficial del banco para publicar software](https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes-/blob/main/LICENSE.md)
+Esta herramienta esta licenciada bajo la [licencia oficial del banco para publicar software](https://github.com/EL-BID/Evaluacion-identificacion-e-implementacion-de-proyectos-Ciudades-Inteligentes/blob/main/LICENSE.md)
 
-la Documentación de Soporte y Uso del software se licenciará bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND).
+La Documentación de Soporte y Uso del software se licenciará bajo Creative Commons IGO 3.0 Atribución-NoComercial-SinObraDerivada (CC-IGO 3.0 BY-NC-ND).
 
 ## Limitación de responsabilidades
 Disclaimer: Esta sección es solo para herramientas financiadas por el BID.
