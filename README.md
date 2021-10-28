@@ -30,7 +30,9 @@ Encontrarás un guía detallada en el siguiente pdf: [Manual 2021.10.27.pdf](htt
  	
 ## Autor/es
 ---
-Nombra a el/los autor/es original/es. Consulta con ellos antes de publicar un email o un nombre personal. Una manera muy común es dirigirlos a sus cuentas de redes sociales.
+Contacto:
+- Alfredo Molina - Deloitte Partner for Smart cities & Infrastructure.
+Correo: amolinaledesma@deloittemx.com
 
 ## Licencia 
 ---
