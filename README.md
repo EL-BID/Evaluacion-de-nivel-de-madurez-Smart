@@ -3,7 +3,7 @@
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
-<h1 align="center"> Metodología de evaluación de ciudades inteligentes</h1>
+<h1 align="center"> Evaluación de nivel de madurez Smart</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/main/evaluacio%CC%81n-smart-cities-interfaz.png"/></p> 
 
 ## Tabla de contenidos:
