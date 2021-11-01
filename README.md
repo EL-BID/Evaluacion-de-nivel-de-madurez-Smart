@@ -10,7 +10,7 @@
 ---
 
 - [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
+- [Guía de usuario y descargables](#guía-de-usuario-y-descargables)
 - [Autor/es](#autores)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
@@ -23,14 +23,12 @@ herramienta, desarrollada en formato Excel, la cual dispone menú principal con 
 - Cuestionario de evaluación.
 - Resultados. 
 
+## Guía de usuario y descargables
+---
 Podrás encontrar la herramienta en español, inglés y portugués:
 - [Manual en español](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%202021.10.27.pdf) y [herramienta en español](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Espan%CC%83ol.xlsm) .
 - [Manual en Portugués](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%20Portugue%CC%81s%202021.10.29.pdf) y [herramienta en Portugués](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Portugue%CC%81s.xlsm).
 - [Manual en inglés](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%20Ingles%202021.10.29.pdf) y [herramienta en inglés](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Espan%CC%83ol.xlsm).
-
-## Guía de usuario
----
-Encontrarás un guía detallada en el siguiente pdf: [Manual 2021.10.27.pdf](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%202021.10.27.pdf)
  	
 ## Autor/es
 ---
