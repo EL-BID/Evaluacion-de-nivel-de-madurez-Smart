@@ -32,7 +32,13 @@ Podrás encontrar la herramienta en español, inglés y portugués:
  	
 ## Autor/es
 ---
-Contacto:
+Contactos
+
+BID:
+- Lorena Cano - SECTOR SPECIALIST - INNOVATION 
+Correo: dlorenac@iadb.org
+
+Deloitte:
 - Alfredo Molina - Deloitte Partner for Smart cities & Infrastructure.
 Correo: amolinaledesma@deloittemx.com
 
