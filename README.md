@@ -1,5 +1,6 @@
 
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/Metodologia-de-evaluacion-de-ciudades-inteligentes/readme?useReferer)](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart)
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/Metodologia-de-evaluacion-de-ciudades-inteligentes/readme&dt=&tid=UA-4677001-16)
 
 *Esta herramienta digital forma parte del catálogo de herramientas del **Banco Interamericano de Desarrollo**. Puedes conocer más sobre la iniciativa del BID en [code.iadb.org](https://code.iadb.org)*
 
