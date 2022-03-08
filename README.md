@@ -12,9 +12,11 @@
 
 - [Descripción y contexto](#descripción-y-contexto)
 - [Guía de usuario y descargables](#guía-de-usuario-y-descargables)
+- [Disclaimer sobre descargas](#disclaimer-sobre-descargas)
 - [Autor/es](#autores)
 - [Licencia](#licencia)
 - [Limitación de responsabilidades - Solo BID](#limitación-de-responsabilidades)
+
 
 ## Descripción y contexto
 ---
@@ -30,6 +32,12 @@ Podrás encontrar la herramienta en español, inglés y portugués:
 - [Manual en español](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%202021.10.27.pdf) y [herramienta en español](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Espan%CC%83ol.xlsm) .
 - [Manual en Portugués](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%20Portugue%CC%81s%202021.10.29.pdf) y [herramienta en Portugués](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Portugue%CC%81s.xlsm).
 - [Manual en inglés](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Manual%20Ingles%202021.10.29.pdf) y [herramienta en inglés](https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/blob/main/Herramienta%20Espan%CC%83ol.xlsm).
+
+## Disclaimer sobre descargas
+---
+IMPORTANTE: Si te encuentras en un dispositivo que restringe la descarga de archivos como politicas de seguridad (común en empresas grandes y oficinas de gobierno) y no puedes descargar los archivos individuales de esta herramienta, te recomendamos descargar todos los archivos con esta url: https://github.com/EL-BID/Evaluacion-de-nivel-de-madurez-Smart/archive/refs/heads/main.zip . 
+
+Obtendrás un archivo con nombre Evaluacion-de-nivel-de-madurez-Smart-main.zip que luego tendrás que descomprimir para poder visualizar todos los archivos.
  	
 ## Autor/es
 ---
